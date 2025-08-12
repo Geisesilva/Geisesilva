@@ -35,8 +35,8 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 
 ## 🏆 Cursos & Certificações
 
--
--
+- Técnico em Informática — Instituto Federal do Amazonas (IFAM)
+- Cursando Análise e Desenvolvimento de Sistemas — IFAM
 
 ---
 
