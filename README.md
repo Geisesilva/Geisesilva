@@ -42,7 +42,7 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 
 ## 📁 Projetos em Destaque
 
-- [Portfólio Pessoal](https://geisesilva.github.io/elas-site/) — Meu site feito com HTML e CSS.
+- [Portfólio Pessoal](https://github.com/Geisesilva/elas-site.git) — Meu site feito com HTML e CSS.
 
 ---
 
