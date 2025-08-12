@@ -1,4 +1,4 @@
-# Geise Silva de Sales 👩‍💻✨
+# Geise Silva de Sales ✨
 
 Bem-vindo(a) ao meu perfil!
 
