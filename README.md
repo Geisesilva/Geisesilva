@@ -35,15 +35,14 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 
 ## 🏆 Cursos & Certificações
 
-- [Curso de Lógica de Programação – Alura](https://www.alura.com.br/)
-- [HTML e CSS para Iniciantes – Udemy](https://www.udemy.com/)
+-
+-
 
 ---
 
 ## 📁 Projetos em Destaque
 
-- [Portfólio Pessoal](https://github.com/Geisesilva/portfolio) — Meu site feito com HTML e CSS.
-- [Sistema de Cadastro de Livros](https://github.com/Geisesilva/livros-java) — Projeto acadêmico em Java.
+- [Portfólio Pessoal](https://geisesilva.github.io/elas-site/) — Meu site feito com HTML e CSS.
 
 ---
 
@@ -76,7 +75,7 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/seu-usuario/) | [E-mail](mailto:seuemail@exemplo.com)
+[LinkedIn](https://www.linkedin.com/in/seu-usuario/) | [E-mail](geisesilva4013@gmail.com)
 
 ---
 
