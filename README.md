@@ -75,7 +75,7 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/seu-usuario/) | [E-mail](geisesilva4013@gmail.com)
+[LinkedIn](www.linkedin.com/in/geise-silva-4b719937a) | [E-mail](geisesilva4013@gmail.com)
 
 ---
 
