@@ -13,7 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFAM, apaixonada 
 - 📚 Atualmente estudando **Java**, **HTML**, **CSS** e aprimorando minhas habilidades em **GitHub**.
 - 💡 Interesse em soluções criativas para problemas reais, combinando tecnologia e design.
 - ✍️ Criadora de histórias e universos de fantasia — criatividade é parte do meu dia a dia!
-- 🐱 Amante de gatos, leitora voraz, fã de séries e apreciadora de poesia.
+- 📖 Apaixonada por livros, fã de séries e apreciadora de poesia.
 - 🌐 Inglês intermediário.
 
 ---
