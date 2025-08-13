@@ -27,8 +27,8 @@ Busco unir criatividade, tecnologia e empatia para transformar ideias em soluç�
 ## 💻 Principais Tecnologias & Ferramentas
 
 - Java ☕
-- HTML5 📄
-- CSS3 🎨
+- HTML 📄
+- CSS 🎨
 - Git & GitHub 🐙
 
 ---
